@@ -1,7 +1,7 @@
 import React from 'react';
 import './App.css';
-import Homepage from './components/homepage/homepage.component';
-import './components/homepage/homepage.styles.scss';
+import Homepage from './pages/homepage/homepage.component';
+import './pages/homepage/homepage.styles.scss';
 function App() {
   return (
     <div className="App">
